@@ -10,7 +10,7 @@
  -->
 
 <!-- PROJECT NAME -->
-#  REPOSITORY TEMPLATE
+# 🐍 Simple bank with Python
 
 <!-- DESCRIPTION -->
 This project are created for using as template for others repository.
